@@ -152,6 +152,7 @@ Matriz competitiva de WildPassPro:
 
 ## **Video de WildPassPro en funcionamiento**
 ![Untitled design](https://github.com/user-attachments/assets/ed9d8d40-abb7-481b-a44e-7e174421915a)
+![Untitled design (2)](https://github.com/user-attachments/assets/7ac014ac-91c7-4abf-80b3-c5624070b188)
 
 
 ---
