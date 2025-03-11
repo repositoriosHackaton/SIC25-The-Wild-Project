@@ -114,6 +114,15 @@
 
 ---
 
+## **Competencia**
+Las mejoras de WildPassPro vs la competencia:
+![image](https://github.com/user-attachments/assets/30e3cc31-d06c-4cc3-ac0a-b612e48c5d22)
+
+Matriz competitiva de WildPassPro:
+![image](https://github.com/user-attachments/assets/65a45f8c-5d8c-43d4-a6b0-092fb6b22d6c)
+
+---
+
 ## **Contribuciones**
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, sigue estos pasos:
 1. Haz un fork del repositorio.
