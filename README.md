@@ -114,6 +114,17 @@
 
 ---
 
+## **Mejoras relevantes que aplicaremos en un futuro**
+**1. Inicio de sesion:**
+   - Este Inicio de sesion desbloquearia la funcion **WildPassPro+**, este contaria con la funcion de poder generar contraseñas de mas de 12 caracteres.
+   - Tambien contará con la posibilidad de **almacenar y resguardas** tus contraseñas generadas en la pestaña de **Bóveda** para cualquier sitio web y tengas acceso facil a ellas.
+**2. ChatBot:**
+   - Debido al poco tiempo que tuvimos para desarrollar el proyecto, no pudimos implementar nuestro ChatBot creado desde 0. Aun seguimos trabajando en el, disminuyendo los errores y     
+     afianzando la compatibilidad con la pagina web.
+   - Mejora en la experiencia visual y atencion al usuario para que sea 100% satisfactoria.
+     
+---
+
 ## **Competencia**
 Las mejoras de WildPassPro vs la competencia:
 ![image](https://github.com/user-attachments/assets/30e3cc31-d06c-4cc3-ac0a-b612e48c5d22)
@@ -134,9 +145,8 @@ Matriz competitiva de WildPassPro:
 ![image](https://github.com/user-attachments/assets/b89f8f5b-20b1-4c53-ae44-40a0978a8d63)
 ![image](https://github.com/user-attachments/assets/be1c3ed6-435a-4ec8-9227-400585e51513)
 ![image](https://github.com/user-attachments/assets/14659804-3b39-48f5-b64c-b09205ae1885)
-![image](https://github.com/user-attachments/assets/c4d62e50-2549-4926-bf16-af9f5237f7a1), ![image](https://github.com/user-attachments/assets/30197a83-fa0a-45bb-ab0d-22233575b0d2)
+![image](https://github.com/user-attachments/assets/c4d62e50-2549-4926-bf16-af9f5237f7a1)
 ![image](https://github.com/user-attachments/assets/30197a83-fa0a-45bb-ab0d-22233575b0d2)
-
 
 ---
 
