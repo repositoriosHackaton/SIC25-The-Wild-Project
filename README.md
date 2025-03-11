@@ -150,6 +150,11 @@ Matriz competitiva de WildPassPro:
 
 ---
 
+## **Video de WildPassPro en funcionamiento**
+
+
+---
+
 ## **Contribuciones**
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, sigue estos pasos:
 1. Haz un fork del repositorio.
