@@ -120,8 +120,7 @@
    - Tambien contará con la posibilidad de **almacenar y resguardas** tus contraseñas generadas en la pestaña de **Bóveda** para cualquier sitio web y tengas acceso facil a ellas.
 
 **2. ChatBot:**
-   - Debido al poco tiempo que tuvimos para desarrollar el proyecto, no pudimos implementar nuestro ChatBot creado desde 0. Aun seguimos trabajando en el, disminuyendo los errores y     
-afianzando la compatibilidad con la pagina web.
+   - Debido al poco tiempo que tuvimos para desarrollar el proyecto, no pudimos implementar nuestro ChatBot creado desde 0. Aun seguimos trabajando en el, disminuyendo los errores y     afianzando la compatibilidad con la pagina web.
    - Mejora en la experiencia visual y atencion al usuario para que sea 100% satisfactoria.
      
 ---
