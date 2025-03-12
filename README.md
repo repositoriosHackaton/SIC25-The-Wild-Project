@@ -32,9 +32,6 @@ WildPassPro es una aplicación innovadora diseñada para mejorar la seguridad de
 
 ## 🏗️ **Arquitectura del Proyecto**
 
-### Diagrama de Arquitectura
-![Arquitectura de WildPassPro](https://raw.githubusercontent.com/AndersonP444/PROYECTO-IA-SIC-The-Wild-Project/main/arquitectura_wildpasspro.png)
-
 ### Componentes Principales:
 1. **Frontend**:
    - Interfaz de usuario construida con **Streamlit**.
